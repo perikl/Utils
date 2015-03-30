@@ -1,0 +1,11 @@
+F:\SMASH!\projects\SQL connect\sqlConnect\obj\x86\Debug\sqlConnect.csprojResolveAssemblyReference.cache
+F:\SMASH!\projects\SQL connect\sqlConnect\bin\Debug\sqlConnect.exe.config
+F:\SMASH!\projects\SQL connect\sqlConnect\bin\Debug\sqlConnect.exe
+F:\SMASH!\projects\SQL connect\sqlConnect\bin\Debug\sqlConnect.pdb
+F:\SMASH!\projects\SQL connect\sqlConnect\bin\Debug\log4net.dll
+F:\SMASH!\projects\SQL connect\sqlConnect\bin\Debug\log4net.xml
+F:\SMASH!\projects\SQL connect\sqlConnect\obj\x86\Debug\sqlConnect.exe
+F:\SMASH!\projects\SQL connect\sqlConnect\obj\x86\Debug\sqlConnect.pdb
+F:\SMASH!\projects\C#\Utils\sqlConnect\bin\Debug\sqlConnect.exe.config
+F:\SMASH!\projects\C#\Utils\sqlConnect\obj\x86\Debug\sqlConnect.exe
+F:\SMASH!\projects\C#\Utils\sqlConnect\obj\x86\Debug\sqlConnect.pdb

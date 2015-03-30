@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DatabaseConfig>
+  <ConnectionString>
+    server=.\SQLEXPRESS;Database=mongosoft;uid=test;pwd=test    
+  </ConnectionString>
+  <!--Data Source=dbs2;Initial Catalog=CRM_Dev;User ID=Supervisor-->
+  <DataBase>
+    [master]    
+  </DataBase>
+  <!--[CRM_Dev]-->
+  <EventNameTable>
+    [dbo].[_AutocadTSEvent]
+  </EventNameTable>
+  <FacilityNameTable>
+    [dbo].[_AutocadTSFacility]
+  </FacilityNameTable>
+  <ExpositionTable>
+    [dbo].[_AutocadExposition]
+  </ExpositionTable>
+  <EventTable>
+    [dbo].[_AutocadEvent]
+  </EventTable>
+  <Fields>
+    <LengthPlan>LengthPlan</LengthPlan>
+    <WidthPlan>WidthPlan</WidthPlan>
+    <AreaPlan>AreaPlan</AreaPlan>
+    <Addressing>Addressing</Addressing>
+    <TypeLayoutName>TypeLayoutName</TypeLayoutName>
+    <CarpetName>CarpetName</CarpetName>
+    <ExpositionTableEventName>EventName</ExpositionTableEventName>
+    <ExpositionTableEventId>EventId</ExpositionTableEventId>
+    <EventNameTableNameRus>NameRus</EventNameTableNameRus>
+    <AccountName>AccountName</AccountName>
+    <AccountPhone>AccountPhone</AccountPhone>
+    <ConactName>ConactName</ConactName>
+    <ContactPhones>ContactPhones</ContactPhones>
+    <ContactEmail>ContactEmail</ContactEmail>
+    <TSFacility>TSFacility</TSFacility>
+    <EmployeeName>EmployeeName</EmployeeName>
+    <CreatedOn>CreatedOn</CreatedOn>
+    <AutocadXMLData>AutocadXMLData</AutocadXMLData>
+    <AutocadFileData>AutocadFileData</AutocadFileData>
+  </Fields>
+</DatabaseConfig>
